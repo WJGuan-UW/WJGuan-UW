@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenjie Guan, from University of Washington!
 - 👀 I’m interested in high-dimensional statistics and machine learning.
 - 🌱 I’m currently learning high-dimensional network data analysis.
-- ☔️ Currently living in Seattle, born and grew up in Shanghai.
+- ☔️ I'm now in Seattle, and was born and grew up in Shanghai.
 - 📫 wguan@uw.edu
 
 <!---
